@@ -1,0 +1,24 @@
+purge
+
+Preflight - in tailwind
+Adding base styles - extend using @layer
+Extracting components
+Adding new utilities
+dark mode
+
+Did you know:
+
+Container class
+Group hover 
+Nedative values for margin, top
+Placeholder color and opacity
+Select all in one click
+TYpography
+
+
+
+https://www.youtube.com/watch?v=t5OuQ4KEduU
+
+https://dev.to/estevanmaito/have-only-30-seconds-and-want-to-create-a-tailwind-css-project-i-got-you-pge
+
+https://github.com/tailwindlabs/tailwindcss/issues/2831
